@@ -1,10 +1,5 @@
-Some of the important learnings from this project are:
+1. SQL - I have used SQL to query the database. Applied many important concepts in SQL like Subqueries, Multiple joins, CTE, Window functions, etc.
 
-1. Applying many important SQL concepts like Subqueries, Multiple joins, CTE, Window functions, etc. to query the database for a meaningful business scenario.
+2. Power BI - Visualized the extracted data using Power BI. Used different visuals like Bar Chart, Dumbbell Chart, Line Chart, Donut Chart etc. to clearly communicate the insights from the data.
 
-2. Using a custom visual called "dumbbell chart" in Power BI, to visualize the difference between any two variables effectively. Thanks to Yuki Kakegawa for sharing about dumbbell chart.
 
-3. Exploring various features in PowerPoint to make the presentation effective.
-
-Thanks to Dhaval Patel and Hemanand Vadivel for bringing out such nice projects having meaningful business scenarios. Also thanks to NAVEEN S for clearing some of my doubts while I was working on the SQL queries. Also if you are interested about story telling with data, check out Brent Dykes's profile, I have personally applied a lot of principles which I have learned through his Linked in posts.
-For viewing the SQL codes, you can visit my GitHub repository;
